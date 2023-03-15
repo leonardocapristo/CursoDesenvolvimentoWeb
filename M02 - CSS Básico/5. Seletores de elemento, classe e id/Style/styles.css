@@ -1,0 +1,17 @@
+p{
+    background-color: yellow;
+    color: rgb(156, 129, 55);
+}
+
+#paragrafo1{
+    color: red;
+    background-color: transparent;
+}
+
+.fundo-azul{
+    background-color: blue;
+}
+
+.texto-amarelo{
+    color: yellow;
+}
