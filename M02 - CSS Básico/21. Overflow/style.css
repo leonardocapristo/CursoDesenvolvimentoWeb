@@ -1,0 +1,12 @@
+.card{
+    width: 300PX;
+    background-color: aqua;
+    height: 300px;
+
+    /* overflow: auto ; */
+    overflow-y: scroll;
+}
+
+.lorem{
+    font-size: 20px;
+}
