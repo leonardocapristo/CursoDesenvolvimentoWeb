@@ -1,13 +1,19 @@
 ul {
-    list-style: none;
+    list-style: circle;
+    list-style-image: url(imagens/image_resized.png);
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    list-style-position: inside;
+    padding: 0;
 }
 
 li {
-
+    border: 1px solid blue;
 }
 
 ol {
-    list-style: decimal-leading-zero;
+list-style: upper-roman;
 }
 
 body {
