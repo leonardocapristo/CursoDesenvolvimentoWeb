@@ -1,0 +1,1 @@
+document.getElementById("texto").innerHTML = "MEu primeiro texto com js"
